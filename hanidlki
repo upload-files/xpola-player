@@ -85,8 +85,8 @@ https://stream.sainaertebat.com/hls2/persianas.m3u8
 http://162.212.179.34/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", varzish Tj
 https://cdn1.live.af:443/live/tjvarzish.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",RMC Sports 1fhd
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/33.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",IRB3 Sports 1fhd
+https://cdn-azd204b.telewebion.com:443/ek/varzesh/live/1080p/index.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein France 1
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/44.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", bein France 2
@@ -133,6 +133,8 @@ https://shls-live-ak.akamaized.net:443/out/v1/b06a89a463764d3688cda337d40dc5bf/i
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ALJazeera document
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN الوثائقية
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Movies ACTION
 https://shls-live-ak.akamaized.net:443/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Aflam HD
@@ -141,6 +143,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/in
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 4
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",HALA London_tv
+https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hDHQ&e=1742913716&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عمان

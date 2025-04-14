@@ -115,7 +115,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DW NEWS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Makka الإخبارية
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MakkaN الإخبارية
 https://makan.media.kan.org.il:443/hls/live/2024680/2024680/../../2024680-b/2024680/source1_4k/chunklist.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ذكريات
 https://al-ekhbaria-prod-dub.shahid.net:443/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8

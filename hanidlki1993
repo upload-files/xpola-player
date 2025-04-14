@@ -101,7 +101,7 @@ https://play.witv.store/live/2719C8919B250671368654F53F9595F1/54.m3u8
 https://tv8-live.daioncdn.net:443/tv8/tv8_720p.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",العربيTV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Jazeera
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Jazeera FHD
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الجزيرة مباشر
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8

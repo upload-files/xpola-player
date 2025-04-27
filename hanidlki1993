@@ -87,10 +87,10 @@ http://162.212.179.34/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 https://cdn1.live.af:443/live/tjvarzish.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",IRB3 Sports 1fhd
 https://cdn-azd204b.telewebion.com:443/ek/varzesh/live/1080p/index.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein France 1
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/44.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", bein France 2
-https://play.witv.store/live/2719C8919B250671368654F53F9595F1/49.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", الشارقة سبورت 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",IDman sports
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", bein France 3
 https://play.witv.store/live/2719C8919B250671368654F53F9595F1/50.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FiFA plus Tv

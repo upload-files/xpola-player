@@ -163,8 +163,8 @@ https://samson.streamerr.co:8081/radionoon/tracks-v1a1/mono.m3u8
 https://samson.streamerr.co:8081/hayatfm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN Comedy
 https://playlist.fasttvcdn.com:443/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/0.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا الاخبارية
-https://roya-live.ercdn.net:443/royanews/royanews_1080p.m3u8?st=2cC5YLZ_WuxQ1TbIte_flQ&e=1742998341
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FANN STUDIO
 http://45.63.116.205/hls2/stream1.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",YAQEEN STUDIO

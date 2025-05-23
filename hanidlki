@@ -177,36 +177,3 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الشرق ديسكفري
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8
-https://a502.variety-buy.store/api/channel/44
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 2 
-
-https://a502.variety-buy.store/api/channel/45
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS3.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 3 
-
-https://a502.variety-buy.store/api/channel/46
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-4.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 4 
-
-https://a502.variety-buy.store/api/channel/47
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-5.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 5 
-
-https://a502.variety-buy.store/api/channel/48
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-6.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 6 
-
-https://a502.variety-buy.store/api/channel/49
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-7.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 7 
-
-https://a502.variety-buy.store/api/channel/50
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS8.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 8 
-
-https://a502.variety-buy.store/api/channel/51
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 " live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/BEIN-SPORTS9.png" group-title="BEIN SPORTS 244P",BEIN SPORTS 9 
-
-https://a502.variety-buy.store/api/channel/52

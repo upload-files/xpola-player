@@ -18,7 +18,7 @@ http://dvdv.org:2082/000358/000358/4868
 http://dvdv.org/000358/000358/7217
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",القران الكريم
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1 group-title="الاسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", السعودية قرأن كريم 360
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", السعودية قرأن كريم 360
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مكة
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8

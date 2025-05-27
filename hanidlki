@@ -34,8 +34,8 @@ https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
 https://wo.cma.footballii.ir:443/hls2/b1_src.m3u8
 #EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", الكرة الفرنسية
 https://stream.sainaertebat.com/hls2/persianas.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الدوري
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الاردن الرياضية
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SSC 1

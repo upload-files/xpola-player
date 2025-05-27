@@ -171,7 +171,7 @@ http://45.63.116.205/hls2/stream1.m3u8
 http://45.63.116.205/hls4/stream1.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MELODY STUDIO
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Anis STUDIO Fm
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Ain Studio Fm
 https://castor.streamthatvideo.co:8081/ainfm/index.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_Sports_FHD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=

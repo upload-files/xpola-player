@@ -98,7 +98,7 @@ http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",العربيTV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Jazeera FHD
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", الجزيرة الإخبارية
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الجزيرة مباشر
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8

@@ -28,15 +28,15 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", القرآن الكريم 
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الكرة الإسبانية
-https://stream.sainaertebat.com/hls2/persianas.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",REAL Madrid * salcburg -live club world cup
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 1
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Hilall * Patushka -live club world cup
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 2
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FIFA WORLD CUP CLUB 1 dazn
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
 https://dcb-fl-live.dtcdn.dazn.com/z11r0ttvof3b1bgazds3uobih/tv25f/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FIFA WORLD CUP CLUB dazn 2
+#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_2
 https://dcb-fl-live.dtcdn.dazn.com/siauzod90nss128jci4gsqjos/tv25f/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الاردن الرياضية
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=

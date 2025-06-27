@@ -35,15 +35,15 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
-https://dcb-fl-live.dtcdn.dazn.com/z11r0ttvof3b1bgazds3uobih/tv25f/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
 #EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_2
 https://dcb-fl-live.dtcdn.dazn.com/siauzod90nss128jci4gsqjos/tv25f/stream.mpd?channel=2650&outlet=dazn-mena&plang=ar
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الاردن الرياضية
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SSC 1
-https://cma.footballii.ir/hls2/ssc1.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SSC1 FHD Sports
-http://93.123.72.138:8000/play/a002
+http://bdd78.4rouwanda-shop.store/live/33523510/index.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SSC_Sports_1
+https://www.sportlo.live/SSC-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SSC 2 L
 https://www.sportlo.live/SSC-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein1

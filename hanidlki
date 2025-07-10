@@ -28,15 +28,15 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", القرآن الكريم 
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/853
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 2
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 1
+http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 2
+http://cdnvine.com:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein 3
+http://cdnvine.com:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",fifa world cup club dazn_1
 http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
-#EXTINF:-1 group-title="مباريات مباشرة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STC SPORTS 1
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STC SPORTS 1
 https://fastly-vod.cdn.intigral-ott.net/STC/STC.isml/manifest.mpd
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الاردن الرياضية
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=

@@ -226,3 +226,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://stream2.removie.raha.af/live/smil:tomjerrytv.smil/playlist.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Morgan Ahmed Morgan
 https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
+#EXTINF:-1 group-title="مسلسلات إلى عائشة" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", مسلسل الكندوش
+https://shoofmax.b-cdn.net/alkandoush-1/ep1/720p/index.m3u8

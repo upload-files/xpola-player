@@ -234,8 +234,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://stream2.removie.raha.af/live/smil:tomjerrytv.smil/playlist.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Morgan Ahmed Morgan
 https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art aflam
-Test1
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ART_aflam_1
 https://games1.elahmad.xyz/tv753_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=c027c68be269bce4f4056d974f6c0fccad56bf76-458306de376c91290f0fa0ecac4dae76-1757094258-1757083458
 #EXTINF:-1 group-title="مسلسلات " tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", مسلسل الكندوش
 https://shoofmax.b-cdn.net/alkandoush-1/ep1/720p/index.m3u8

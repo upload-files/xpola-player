@@ -119,7 +119,7 @@ https://live.alarabiya.net:443/alarabiapublish/alarabiya.smil/alarabiapublish/al
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سكاي نيوز
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", العربية الحدث
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+http://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المشهد
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DW NEWS

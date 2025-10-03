@@ -40,7 +40,7 @@ https://baratrah.com/bein3/index.m3u8
 http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 4
 http://het106a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=Yy245AZtJT_kJZrzGgZCGg&e=1757166856
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_sport_local
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_sport_HD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",viTAL sport
 https://vslive.pw/stream/48527/index.m3u8
@@ -114,6 +114,8 @@ https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4177
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", BEIN_SPORTS1
 https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ثمانية سبورتSD
+https://shoottvlivs.tt398805.workers.dev/?url=http%3A%2F%2F1789-181.123091763.it.com%2Flive%2F696998_.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",العربيTV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Jazeera FHD
@@ -204,7 +206,7 @@ http://45.63.116.205/hls4/stream1.m3u8
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Ain Studio Fm
 https://castor.streamthatvideo.co:8081/ainfm/index.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_Sport_SD_480P
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_Sport_SD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8?st=HJKJkuqCR0C6HXSaxX8QuQ&e=1716228573&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",دبي افلام one
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8

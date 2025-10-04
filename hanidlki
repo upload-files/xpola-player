@@ -244,13 +244,15 @@ https://stream2.removie.raha.af/live/smil:tomjerrytv.smil/playlist.m3u8
 https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ART_aflam_1
 https://games1.elahmad.xyz/tv753_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=c027c68be269bce4f4056d974f6c0fccad56bf76-458306de376c91290f0fa0ecac4dae76-1757094258-1757083458
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST RA1
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST RAbia'a sport 1
 http://splus.smartres.net/65787/54353/113628
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST STA1
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST STArzplay sport 1
 http://splus.smartres.net/65787/54353/84714
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST BUN
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST BUNdezlige
 http://splus.smartres.net/65787/54353/139651
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST alwan
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128851.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST 
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST bein 2 
 http://1789-181.123091763.it.com/live/235756_.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test STArzplay sport 3
+http://std.visiolinks.com:2082/110048813461646/31214161/267448

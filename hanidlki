@@ -40,6 +40,10 @@ https://baratrah.com/bein3/index.m3u8
 http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 4
 http://het106a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=Yy245AZtJT_kJZrzGgZCGg&e=1757166856
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport5 G
+https://cdnfest.com/G5-720p/video.m3u8
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport6 G
+https://cdnfest.com/G6-720p/video.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_sport_HD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",viTAL sport
@@ -246,9 +250,9 @@ https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST RAbia'a sport 1
 http://splus.smartres.net/65787/54353/113628
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Test Starzplay_sport_1
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Test Starz_sport_1
 http://splus.smartres.net/65787/54353/84714
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST BUNdezlige
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TESTالدوري الالماني
 http://splus.smartres.net/65787/54353/139651
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST alwan
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128851.m3u8

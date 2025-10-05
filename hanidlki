@@ -264,5 +264,5 @@ http://1789-181.123091763.it.com/live/235756_.m3u8
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98085
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", test bein1
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98085.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_hani_1
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/H1QQa5T4L1PHHIucTGtDafh4LCVEinH-2bpIj0Hwqel1exEaQIC04i3RfLaKTyXdGyTEdUYcmOGBrvSnr2g5Sw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_hanii_1
+http://a502.variety-buy.store/api/channel/4

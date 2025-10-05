@@ -59,13 +59,15 @@ http://het108a.4rouwanda-shop.store/live/69854211/index.m3u8?t=J4XkvXz4xDQTsC01F
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein 3
 http://het117a.4rouwanda-shop.store/live/645587700/index.m3u8?t=mCztTZ6nIwcdwPwazaMrqA&e=1754846322
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر1
-http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+https://cdnfest.com/ftv1-720p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر2
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+https://cdnfest.com/ftv2-720p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر3
-http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
+https://cdnfest.com/ftv3-1080p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر4
-http://platform.topuphost.com:8577/live/alfajr4.stream/playlist.m3u8
+https://cdnfest.com/ftv4-720p/video.m3u8?token=2ZRvum5RxIweG3
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-Fjer-5
+https://cdnfest.com/ftv5-1080p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Hala RAMALLAH
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابوظبي الرياضية1

@@ -50,8 +50,8 @@ https://cdnfest.com/G5-720p/video.m3u8
 https://cdnfest.com/G6-720p/video.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_sport_HD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", فوتبول
-http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Fight_TV
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",4 SPORTS
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
@@ -122,8 +122,8 @@ http://het106a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=Yy245AZtJT_kJZr
 https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport 8
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4177
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", BEIN_SPORTS1
-https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", BEIN_LOW_1
+http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ثمانية سبورتSD
 https://shoottvlivs.tt398805.workers.dev/?url=http%3A%2F%2F1789-181.123091763.it.com%2Flive%2F696998_.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",4K IRIB
@@ -270,9 +270,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://stream2.removie.raha.af/live/smil:tomjerrytv.smil/playlist.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Morgan Ahmed Morgan
 https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_1_HD
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_HD_1
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_2_HD
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_HD_2
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/101146
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mix Hollywood SD
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8

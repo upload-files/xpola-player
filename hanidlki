@@ -288,7 +288,7 @@ http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128851.m3u8
 http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test bein_sport1
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98085
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", test bein1
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98085.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_hanii_1
-http://a502.variety-buy.store/api/channel/4
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shasha_sport
+http://max.amigo00.com:2052/live/18631050917737/12212856565617/651422.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_bein_low_1
+http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8

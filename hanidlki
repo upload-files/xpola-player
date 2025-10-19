@@ -292,3 +292,5 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98085
 http://max.amigo00.com:2052/live/18631050917737/12212856565617/651422.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_bein_low_1
 http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test_sir_1
+https://d2r2z59u1oym0n.cloudfront.net/kooora/d4f9ab7dsd5sabeins1111_sd?ts=1760898520&nonce=Ly4NPcJs&token=1004967670

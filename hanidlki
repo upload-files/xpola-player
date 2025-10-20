@@ -296,3 +296,21 @@ http://176.119.29.54/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
 #EXTVLCOPT:http-player-type=m3u
 #EXTVLCOPT:http-find=.m3u8
 https://www.youtube.com/live/lCeoYw3Y9zM?si=rkY-Zv_btQYdV0-c
+#EXTINF:-1 group-title="Testt", Quran
+#EXTVLCOPT:http-find=.m3u8
+https://www.youtube.com/live/lCeoYw3Y9zM?si=rkY-Zv_btQYdV0-c
+
+#EXTINF:-1 group-title="Testt", Qurran
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-find=.m3u8
+https://www.youtube.com/live/lCeoYw3Y9zM?si=rkY-Zv_btQYdV0-c
+
+#EXTINF:-1 group-title="Testt", Q
+#EXTVLCOPT:http-player-type=browser
+#EXTVLCOPT:http-find=M3u8
+https://www.youtube.com/live/lCeoYw3Y9zM?si=rkY-Zv_btQYdV0-c
+
+#EXTINF:-1 group-title="Testt", R
+#EXTVLCOPT:http-player-type=m3u
+#EXTVLCOPT:http-find=M3u8
+https://www.youtube.com/live/lCeoYw3Y9zM?si=rkY-Zv_btQYdV0-c

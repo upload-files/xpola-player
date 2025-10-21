@@ -114,12 +114,12 @@ http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
 http://het117a.4rouwanda-shop.store/live/645587700/index.m3u8?t=mCztTZ6nIwcdwPwazaMrqA&e=1754846322
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_4
 http://het106a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=Yy245AZtJT_kJZrzGgZCGg&amp;e=1757166856
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_SD_1
-https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana_FiGHT_TV
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport 8
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4177
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", BEIN_SPORTS1
-https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",solh_sports
+https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ثمانية سبورتSD
 https://shoottvlivs.tt398805.workers.dev/?url=http%3A%2F%2F1789-181.123091763.it.com%2Flive%2F696998_.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",العربيTV
@@ -260,8 +260,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://stream2.removie.raha.af/live/smil:tomjerrytv.smil/playlist.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Morgan Ahmed Morgan
 https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ART_AFLAM_1
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_1
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_2
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/101146.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST RAbia'a sport 1
 http://splus.smartres.net/65787/54353/113628
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Test Starz_sport_1

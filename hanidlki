@@ -109,7 +109,9 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",VarzishTV_sports_TJ
 https://stream2.removie.raha.af/live/smil:tjvarzishtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",match_sport_2
-http://4.team.ga:80/ch2124/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9fG540OaQDJDTWaP34yXmebAEeo07D3oDnpKA1ROd5R 
+http://4.team.ga:80/ch2124/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9fG540OaQDJDTWaP34yXmebAEeo07D3oDnpKA1ROd5R
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",match_sports_3
+http://4.team.ga:80/ch2125/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4zMl65PaOgFF5Cwe6GwK1Jed-_Xhfhh8hSUnMHglu8I
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FiFA plus Tv
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_2

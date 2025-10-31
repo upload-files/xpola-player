@@ -312,5 +312,7 @@ http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128851.m3u8
 http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test bein_sport1
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98085
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_1(360p)
-https://tigan.live/live/360p/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",(oneTV)
+https://11.team.ga:80/ch1186/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kr4bs0c-9ATEZibB2qUgzgDuz22RLhs01FiKhyfvk9QQ.dubldot
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",(ONETV_2)
+https://11.team.ga:80/ch1145/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8JuT7GFq5-BInj_PnLAXtRYNyvcs7ybYXcDN_yDHIWAtg.dubldot

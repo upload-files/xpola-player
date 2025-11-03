@@ -178,10 +178,12 @@ https://live.alarabiya.net:443/alarabiapublish/alarabiya.smil/alarabiapublish/al
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", العربية الحدث
 http://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8
-#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Jazeera_News_sd
-https://live-hls-web-aja-fa.thehlive.com/alternative/AJA/03.m3u8
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الجزيرةSD
+https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DW NEWS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المشهدTV
+https://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/chunklist__0.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MakkaN الإخبارية
 https://makan.media.kan.org.il:443/hls/live/2024680/2024680/../../2024680-b/2024680/source1_4k/chunklist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الغد الإخبارية

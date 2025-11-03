@@ -55,7 +55,7 @@ http://135.125.109.73:9000/beinsportnew_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global
 http://198.16.112.138:9000/play/live/81DE2DB8D6836438.m3u8?id=i66qQIdl2IoCF1nEoxibTLlpRxRk_YZ7paRsOGfyEoo&uid=B2A45A01A64BFFBB&mk=1761379810&client=newaaa&token=oaj2tq1iMPvNPLw5rhZz08YX4U-ypZsxFCOmKKnx83Rgcs290i117xO992iUUibdL2yZaQhfu6pIm5rX6-8oYxWTafnU73NrK4ygDtIKuXsqzIkXBOwO1Om4BQBgSJp10oyKDzu6qpbq20ra4LdBYdGg0YB4vdVGoqKbFTK6ROpXcO-9WNdVIUhrkcF13toabFVoE1R5idB838dlgPn1eA&ver=d000:c000&last=0tcwXa_dYgNMup3nfbiTLTPqj3YOmtMwH3ClWvb6yLU&sign=37nBVfY7l8Ob4SUDvnrh-g&sub=false&px=false&def=0&type=1&pid=
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 1
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=TvrGOHGwfsI-7n3QF851FA&amp;e=1755581332
+http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 2
 http://176.119.29.35/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 3
@@ -302,16 +302,16 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/101146.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST-sport1
 https://tigan.live/live/720p/index.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Test Starz_sport_1
-http://splus.smartres.net/65787/54353/84714
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TESTالدوري الالماني
-http://splus.smartres.net/65787/54353/139651
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST alwan
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128851.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST bein 2 
-http://1789-181.123091763.it.com/live/235756_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",test bein_sport1
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98085
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_1
+http://199.115.193.116:80/90040798278941/90040798278941/409796
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_2
+http://199.115.193.116:80/90040798278941/90040798278941/409799
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_3 
+http://199.115.193.116:80/90040798278941/90040798278941/409802
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_4
+http://199.115.193.116:80/90040798278941/90040798278941/409805
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_5
+http://199.115.193.116:80/90040798278941/90040798278941/409808
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",(oneTV)
 https://11.team.ga:80/ch1186/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8Kr4bs0c-9ATEZibB2qUgzgDuz22RLhs01FiKhyfvk9QQ.dubldot
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",(ONETV_2)

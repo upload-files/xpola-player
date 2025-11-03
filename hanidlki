@@ -52,8 +52,8 @@ http://135.125.109.73:9000/beinsport8_.m3u8
 http://135.125.109.73:9000/beinsport9_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_news
 http://135.125.109.73:9000/beinsportnew_.m3u8
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global
-http://198.16.112.138:9000/play/live/81DE2DB8D6836438.m3u8?id=i66qQIdl2IoCF1nEoxibTLlpRxRk_YZ7paRsOGfyEoo&uid=B2A45A01A64BFFBB&mk=1761379810&client=newaaa&token=oaj2tq1iMPvNPLw5rhZz08YX4U-ypZsxFCOmKKnx83Rgcs290i117xO992iUUibdL2yZaQhfu6pIm5rX6-8oYxWTafnU73NrK4ygDtIKuXsqzIkXBOwO1Om4BQBgSJp10oyKDzu6qpbq20ra4LdBYdGg0YB4vdVGoqKbFTK6ROpXcO-9WNdVIUhrkcF13toabFVoE1R5idB838dlgPn1eA&ver=d000:c000&last=0tcwXa_dYgNMup3nfbiTLTPqj3YOmtMwH3ClWvb6yLU&sign=37nBVfY7l8Ob4SUDvnrh-g&sub=false&px=false&def=0&type=1&pid=
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD
+http://199.115.193.116:80/90040798278941/90040798278941/239656
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 1
 http://1789-181.123091763.it.com/live/235756_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 2
@@ -290,7 +290,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2831
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTV_kids 
 http://199.115.193.116:80/90040798278941/90040798278941/352854
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTV_YA_HALA
+http://199.115.193.116:80/90040798278941/90040798278941/352805
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTV_YA_HALA_BELARBi
+http://199.115.193.116:80/90040798278941/90040798278941/352806
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osnTV_YA_HALA_AFLAM
+http://199.115.193.116:80/90040798278941/90040798278941/352807
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",CGTN arabic tv
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc الوثائقية
@@ -303,6 +308,26 @@ https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/2440
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_aflam_2
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/101146.ts
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_cinema
+http://199.115.193.116:80/90040798278941/90040798278941/352808
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_hekayat_1
+http://199.115.193.116:80/90040798278941/90040798278941/352803
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Art_hekayat_2
+http://199.115.193.116:80/90040798278941/90040798278941/352804
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_alsawfha
+http://199.115.193.116:80/90040798278941/90040798278941/352824
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_fann
+http://199.115.193.116:80/90040798278941/90040798278941/352825
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_al_yawum
+http://199.115.193.116:80/90040798278941/90040798278941/352828
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_muslsalat
+http://199.115.193.116:80/90040798278941/90040798278941/352830
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_muslsalat+2
+http://199.115.193.116:80/90040798278941/90040798278941/352829
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_cinema_1
+http://199.115.193.116:80/90040798278941/90040798278941/352827
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",osn_cinema_2
+http://199.115.193.116:80/90040798278941/90040798278941/352826
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TEST-sport1
 https://tigan.live/live/720p/index.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_1

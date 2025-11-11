@@ -26,8 +26,8 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/5abY2EGsnM6Eer2Z-
 http://het120a.ycn-redirect.com/live/645587700/index.m3u8?t=rtA0MYvEvxym_wMNkVH8FQ&e=1761805947
 #EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_4
 http://het107a.ycn-redirect.com/live/9787488847/index.m3u8?t=7xX0xeKe3LO2V5W3MKaA7A&e=1761805968
-#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_5
-http://het118a.ycn-redirect.com/live/610303030/index.m3u8?t=dHDP4-Tqa3KTm5MKP-S2kA&e=1761805993
+#EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22201.ts
 #EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_drama
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98138
 #EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",be3

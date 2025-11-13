@@ -34,7 +34,9 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/98138
 http://4.team.ga:80/ch229/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6PfyTccqMC2IDIRb7cqpWyA7EJv1ajePZYzTKxkDV4C
 #EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc_MAX
 http://splus.smartres.net//65787/54353/46727
-[
-  "https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|player-type=web2exo|name=Bein sport news YouTube|find=m3u8",
-  "https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|user-agent=m3u8|player-type=m3u|name=Bein YouTube live"
-]
+#EXTINF:-1 group-title="Best", Bein YouTube
+https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|
+
+#EXTINF:-1 group-title="Best", Bein
+#EXTVLCOPT:http-player-type=m3u
+https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|

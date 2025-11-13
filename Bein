@@ -35,8 +35,8 @@ http://4.team.ga:80/ch229/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6PfyTccqMC
 #EXTINF:-1 group-title="Bein test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc_MAX
 http://splus.smartres.net//65787/54353/46727
 #EXTINF:-1 group-title="Best", Bein YouTube
-https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|
+https://www.youtube.com/live/umCCh6e7eXI?si=mMtwcHtvOqqUqsLh
 
 #EXTINF:-1 group-title="Best", Bein
 #EXTVLCOPT:http-player-type=m3u
-https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL|
+https://www.youtube.com/live/umCCh6e7eXI?si=hCTnkmTq3PxFkgsL

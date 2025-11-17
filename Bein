@@ -38,5 +38,15 @@ http://splus.smartres.net//65787/54353/46727
 http://141.98.115.53/live/111/111/859.ts
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_SAMA
 http://sans7.org:88/live/HUGYOXZAMRJPYUK/XOSNF9HZ5XZDGGN/76604.ts
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",sama__jordan
-http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/77890
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",بي ان سبورت
+http://fast.365akhbar.reisen:8080/sa1.css?token=c7e61b776ffb460445edc93ccc587dbe&ip=91.186.251.128
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein4
+http://fast.cinema2.vip:8080/ha4.css?token=e30766722490ed318a911fc60c0967d0&ip=79.173.239.153
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd
+http://fast.genral2025.sbs:8080/ha4.css?token=e30766722490ed318a911fc60c0967d0&ip=79.173.239.153
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_1
+http://fast.fastes.sbs:8080/sa1.css?token=e30766722490ed318a911fc60c0967d0&ip=79.173.239.153
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SAMA-_-JORDAN
+http://141.98.115.53/live/111/111/859.m3u8
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_3
+http://fast.genral2025.sbs:8080/ha3.css?token=e30766722490ed318a911fc60c0967d0&ip=79.173.239.153

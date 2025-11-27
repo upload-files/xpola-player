@@ -1,16 +1,4 @@
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", ابراهيم الابيض
-https://shoofmax.b-cdn.net/ibrahim-alabyad/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",بوبوس
-https://shoofmax.b-cdn.net/boboss/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", رمضان مبروك ابو العلمين
-https://shoofmax.b-cdn.net/ramadan-mabrouk/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", مرجان احمد مرجان
-https://shoofmax.b-cdn.net/morgan-ahmad-morgan/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عمارة يعوقبان
-https://shoofmax.b-cdn.net/emarat-yacoubian/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",فيفا زلاطا
-https://shoofmax.b-cdn.net/fifa-zalata/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الغجر
-https://shoofmax.b-cdn.net/alghajar/720p/index.m3u8
-#EXTINF:-1 group-title="افلام" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",حسن و مرقص
-https://fleyjdraab.erbvr.com/hls/w/IG/8s8fxh2me1pwsfhbjsy8i65vzg9osvujpj7iu11r/8s8fxh2me1pwsfhbjsy8i65vzg9osvujpj7iu11r.smil/hlssubplaylist-ovdnQkcf_oacnQu7.m3u8?st=I1po7sAyH0CNW5jEZ4n5CA&e=1762260774&sid=46XvPpNbc02_q_VJJ8kXqg&bvr_flags=2&bvr_ch=hls&bvr_bw=1200000
+#EXTINF:-1 group-title="hani" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHAIHD_FIFA_PLUS
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
+#EXTINF:-1 group-title="hani", SHAHID_ANIME_LIVE
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8

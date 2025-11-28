@@ -34,8 +34,6 @@ https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chun
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رسول الله صلى الله عليه وسلم
-https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_2
@@ -58,8 +56,8 @@ http://135.125.109.73:9000/beinsport9_.m3u8
 http://135.125.109.73:9000/beinsportglobal_.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_English_1
 http://135.125.109.73:9000/beinsporten1_.m3u8
-#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_news
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/32894
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_news-4K
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/31
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD
 http://199.115.193.116:80/90040798278941/90040798278941/239656
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein1
@@ -76,8 +74,8 @@ http://199.115.193.116:80/90040798278941/90040798278941/36417
 http://199.115.193.116:80/90040798278941/90040798278941/36423
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 7
 http://199.115.193.116:80/90040798278941/90040798278941/36425
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 8
-http://199.115.193.116:80/90040798278941/90040798278941/36976
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Bein-8-4K 
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/39
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_9
 http://199.115.193.116:80/90040798278941/90040798278941/36977
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_English_1
@@ -124,12 +122,12 @@ http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463430
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein HD1
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463440
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein HD2
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463439
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein HD3
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463438
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-1-4K
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/48
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-2-4K
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/27766
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Bein-3-4K 
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/34
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر1
 https://cdnfest.com/ftv1-720p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر2
@@ -146,10 +144,20 @@ http://194.143.148.28:8080/MatchArena/index.m3u8
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابوظبي الرياضية2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh sports 1
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4119
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh sports 2
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4120
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh1
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760429
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh2
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760428
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh3
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760424
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shasha sport
+http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401772206
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",al-Kass2
+https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",al-Kass3
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", al-Kass4
+https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",دبي الرياضية1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",دبي الرياضية2
@@ -162,8 +170,8 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",trace sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport 7
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4176
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",GOL LALIGA Classic
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Real MadridTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",IRiB Sports9
@@ -178,24 +186,24 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",VarzishTV_TJ
 https://stream2.removie.raha.af/live/smil:tjvarzishtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",match_sport_2
-http://4.team.ga:80/ch2124/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9fG540OaQDJDTWaP34yXmebAEeo07D3oDnpKA1ROd5R
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",klik boxing
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc_Fifa_plus
 https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FiFA plus Tv
-https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_2
-http://het108a.4rouwanda-shop.store/live/69854211/index.m3u8?t=J4XkvXz4xDQTsC01FK57ng&e=1754846199
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_1
-http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_3
-http://het117a.4rouwanda-shop.store/live/645587700/index.m3u8?t=mCztTZ6nIwcdwPwazaMrqA&e=1754846322
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sport_4
-http://het106a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=Yy245AZtJT_kJZrzGgZCGg&amp;e=1757166856
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Špõřţś
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", premier 1
+http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", premier2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", premier4
+http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", premier5
+http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana_FiGHT_TV
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein sport 8
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/4177
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",PROSPORTS 
+https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",solh_sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",world cup2014
@@ -225,7 +233,7 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC بوليوود HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC_FHD_1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_2.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc_1_(sd)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC_FM

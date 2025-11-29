@@ -84,21 +84,21 @@ http://199.115.193.116:80/90040798278941/90040798278941/8260
 https://baratrah.com/bein3/index.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN 1(720)    
 http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",espn_1
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665821
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",espn_2
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665823
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", ESPN_3
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665827
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",espn_4
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665830
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",espn_5
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665832
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",espn_6
-http://dfkkh.dtwkaf.xyz/431985512/742584298/4665836
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn_1
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 1 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", DUBAI SPORT 1 
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 2 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", DUBAI SPORT 3 
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN GLOBAL
+http://199.115.193.116:80/90040798278941/90040798278941/239656
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn_1
 http://dfkkh.dtwkaf.xyz/431985512/742584298/4665814
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn_2
+#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn_2
 http://dfkkh.dtwkaf.xyz/431985512/742584298/4665815
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn_3
 http://dfkkh.dtwkaf.xyz/431985512/742584298/4665816

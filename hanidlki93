@@ -470,6 +470,10 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHOOF SPORT 1
 https://storage.googleapis.com/alkass6-bucket/livestream/shoof/20251116T090542Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHOOF SPORT 2
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", SHOOF SPORT 2(720)
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_1
 http://199.115.193.116:80/90040798278941/90040798278941/409796
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_2

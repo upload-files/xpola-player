@@ -84,8 +84,8 @@ http://199.115.193.116:80/90040798278941/90040798278941/36977
 http://199.115.193.116:80/90040798278941/90040798278941/8260
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",hani Live 
 https://baratrah.com/bein3/index.m3u8
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN 1(720)    
-http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN 1(HANI IPTV)    
+http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/79038
 #EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 1 
 http://199.115.193.116:80/90040798278941/90040798278941/1700
 #EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
@@ -129,17 +129,17 @@ http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/66596
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_sport_HD
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8?st=EvPopkmOxsE7TFhcP1oPyw&e=1738843638&P=Browser&C=undefinedBrowser&D=Mobile&CT=
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_1
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463430
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN_Sports
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-1-4K
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/48
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-2-4K
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/27766
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Bein-3-4K 
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/34
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-1
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-2-
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22201
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Bein-3 
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22202
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر1
 https://cdnfest.com/ftv1-720p/video.m3u8?token=2ZRvum5RxIweG3
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الفجر2
@@ -461,7 +461,7 @@ https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", TravelXP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",hani_iptv_1
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401463430
+http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHOOF SPORT 1
 https://storage.googleapis.com/alkass6-bucket/livestream/shoof/20251116T090542Z/mux_video_1080p_ts/index-1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_1

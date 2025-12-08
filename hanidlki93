@@ -514,3 +514,7 @@ http://199.115.193.116:80/90040798278941/90040798278941/429238
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Turkmenistan sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN VS EMIRATE ( ARAB CUP )
+https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_1080.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Jordan vs Emirate ( arab cup )
+https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_720.m3u8

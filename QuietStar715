@@ -218,14 +218,20 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", premier5
 http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana_FiGHT_TV
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana FiGHT_TV
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",PROSPORTS 
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",solh_sports
-https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",world cup2014
-http://4.team.ga:80/ch3160/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7pr_38W1LMrG0-wPIGIjtbSOcd7zZUuw-EdyUrtKnwt
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persianas sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persianas sports 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana sports 3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", persiana sport 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",persiana FiGHT_TV
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-Araby-720
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_720p/chunks.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Jazeera FHD
@@ -470,6 +476,12 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHOOF SPORT 1
 https://storage.googleapis.com/alkass6-bucket/livestream/shoof/20251116T090542Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shoof sport 1 (480P)
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof/20251116T090542Z/mux_video_480p_ts/index-1.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHOOF SPORT 2
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_1080p_ts/index-1.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", SHOOF SPORT 2 (720)
+https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_1
 http://199.115.193.116:80/90040798278941/90040798278941/409796
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alwan_2
@@ -502,3 +514,13 @@ http://199.115.193.116:80/90040798278941/90040798278941/429238
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Turkmenistan sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN VS EMIRATE ( ARAB CUP )
+https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_1080.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Jordan vs Emirate ( arab cup )
+https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_720.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN TEST 1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN TEST_1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORT_1
+https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8

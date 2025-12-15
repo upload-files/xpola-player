@@ -39,9 +39,9 @@ http://141.98.115.53/live/111/111/859.ts
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_SAMA
 http://sans7.org:88/live/HUGYOXZAMRJPYUK/XOSNF9HZ5XZDGGN/76604.ts
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",بي ان سبورت
-http://fast.365akhbar.reisen:8080/sa1.css?token=c7e61b776ffb460445edc93ccc587dbe&ip=91.186.251.128
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_c69252f0d66311f099a3ddbf9c82d1c3/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",hani_LIVE_1
-https://c444.19-asbas.sbs/proxy?url=https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/zujDqKFTo1egJaESeY6sAJnssiQ41cHBA-4Szo7htSmwzKZWc0BgNYUOie7PezUatzqnBNpf7N8UY6pEeRc_yQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_delta.m3u8?type=live
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_c69252f0d66311f099a3ddbf9c82d1c3/index.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",hani_LIVE_2
 https://c444.19-asbas.sbs/proxy?url=https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/zujDqKFTo1egJaESeY6sAJnssiQ41cHBA-4Szo7htSmwzKZWc0BgNYUOie7PezUatzqnBNpf7N8UY6pEeRc_yQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_1

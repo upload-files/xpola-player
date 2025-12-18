@@ -88,41 +88,43 @@ http://199.115.193.116:80/90040798278941/90040798278941/8260
 https://baratrah.com/bein3/index.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN 1(HANI IPTV)    
 http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/79038
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 1 
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 1 
 http://199.115.193.116:80/90040798278941/90040798278941/1700
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
 http://199.115.193.116:80/90040798278941/90040798278941/1699
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 1 
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 1 
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 2 
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 2 
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 3 
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 3 
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN GLOBAL
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN GLOBAL
 http://199.115.193.116:80/90040798278941/90040798278941/327076
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 2
-https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 3
-https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 4
-https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN XTRA 1
-http://splus.smartres.net//65787/54353/54926
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS one
-http://splus.smartres.net//65787/54353/46761
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN SPORTS
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 2
+http://199.115.193.116:80/90040798278941/90040798278941/401929
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 3
+http://199.115.193.116:80/90040798278941/90040798278941/401930
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 4
+http://199.115.193.116:80/90040798278941/90040798278941/401931
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Kass 5
+http://199.115.193.116:80/90040798278941/90040798278941/401932
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 1
+http://199.115.193.116:80/90040798278941/90040798278941/401928
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Al-Kass 6
+http://199.115.193.116:80/90040798278941/90040798278941/401933
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN SPORTS
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Shariqa SPORTS
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Shariqa SPORTS
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 1
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 1
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 2
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ON Time SPORT 1
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ON Time SPORT 1
 http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/77935
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ON Time SPORT 2
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ON Time SPORT 2
 http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/77940
-#EXTINF:-1 group-title="FIFA ARAB CUP" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Nile SPORT
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Nile SPORT
 http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/78022
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",LALIGA 1
 http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/494
@@ -164,12 +166,12 @@ http://194.143.148.28:8080/MatchArena/index.m3u8
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابوظبي الرياضية2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index_sp2_video_enc_1080p25.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh1
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760429
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh2
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760428
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh3
-http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401760424
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh 1
+http://199.115.193.116:80/90040798278941/90040798278941/412107
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh 2
+http://199.115.193.116:80/90040798278941/90040798278941/412106
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh 3
+http://199.115.193.116:80/90040798278941/90040798278941/414768
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shasha sport
 http://syniajqi.ott-smart.xyz:80/4244133397/9741909780/401772206
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",al-Kass2

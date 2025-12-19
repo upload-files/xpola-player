@@ -528,17 +528,17 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORT_1
 https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHASHA_SPORT_TEST_1
-https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHASHA_SPORT_TEST_2
-https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_1 (360)
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_2 (720)
-https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_2 (360)
-https://stream.supertv.gg:3003/supertv/sport/stv3/ch2/ch2_360.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_3 (720)
-https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_3 (360)
-https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_360.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein max sport1
+http://199.115.193.116:80/90040798278941/90040798278941/432737
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein max sport2
+http://199.115.193.116:80/90040798278941/90040798278941/432738
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein max sport3
+http://199.115.193.116:80/90040798278941/90040798278941/432739
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein max sport4
+http://199.115.193.116:80/90040798278941/90040798278941/432740
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein xtra sport1
+http://199.115.193.116:80/90040798278941/90040798278941/162382
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein xtra sport2
+http://199.115.193.116:80/90040798278941/90040798278941/162383
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein xtra sport3
+http://199.115.193.116:80/90040798278941/90040798278941/162384

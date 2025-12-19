@@ -281,7 +281,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC مرايا
 https://shls-live-ak.akamaized.net:443/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC أفلام
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD ناشيونال جيوغرافيك
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", الجزيرة الوثائقية
@@ -420,8 +420,8 @@ http://199.115.193.116:80/90040798278941/90040798278941/425282
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",maraya_Live
 https://live.kwikmotion.com/smcottlive/ott1.smil/smcottpublish/ott1_source/chunks.m3u8
-#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Morgan Ahmed Morgan
-https://shoofmax.b-cdn.net:443/morgan-ahmad-morgan/720p/index.m3u8
+#EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ARTأفلام1
 http://199.115.193.116:80/90040798278941/90040798278941/352801
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ARTأفلام2

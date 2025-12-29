@@ -30,8 +30,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8?che
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",السنة النبوية (FM)
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", القرآن الكريم 
-https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سورة البقرة
+https://server8.mp3quran.net/frs_a/002.mp3
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-MAJID Quran kareem
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
@@ -67,9 +67,9 @@ http://135.125.109.73:9000/beinsportxtra1_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD
 http://199.115.193.116:80/90040798278941/90040798278941/239656
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein1
-http://vibertv.online:8080/live/ANDVIBERTV/ANDVIBERTV60/10.ts
+http://portal5458.com:8080/live/jQe3M4UsqU/3552914751/12554.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein2
-http://vibertv.online:8080/live/ANDVIBERTV/ANDVIBERTV60/11.ts
+http://portal5458.com:8080/live/jQe3M4UsqU/3552914751/12553.ts
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 3
 http://199.115.193.116:80/90040798278941/90040798278941/18375
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein 4
@@ -290,7 +290,7 @@ http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/77839
 http://199.115.193.116:80/90040798278941/90040798278941/352220
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC باب الحارة
 https://shls-live-ak.akamaized.net:443/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
-#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bab Al-Hara (shaihd 720 )
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shahid_Bab_Al-Hara
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC مرايا
 https://shls-live-ak.akamaized.net:443/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8

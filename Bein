@@ -44,8 +44,8 @@ https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_c69252f0d6631
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_c69252f0d66311f099a3ddbf9c82d1c3/index.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",hani_LIVE_2
 https://c444.19-asbas.sbs/proxy?url=https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/zujDqKFTo1egJaESeY6sAJnssiQ41cHBA-4Szo7htSmwzKZWc0BgNYUOie7PezUatzqnBNpf7N8UY6pEeRc_yQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_sd_1
-http://fast.fastes.sbs:8080/sa1.css?token=e30766722490ed318a911fc60c0967d0&ip=79.173.239.153
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سورة البقرة فارس عباد
+https://server8.mp3quran.net/frs_a/002.mp3
 #EXTINF:-1 group-title="hani" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHAIHD_ANIME_kids
 https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_2.m3u8
 #EXTINF:-1 group-title="hani" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SHAIHD_FIFA_PLUS

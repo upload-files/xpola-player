@@ -1,4 +1,4 @@
-EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Quran karem (FM)
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Quran karem (FM)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", السعودية قرأن كريم 
 https://win.holol.com/live/quran/chunklist_w98804648.m3u8
@@ -10,13 +10,95 @@ https://live.kwikmotion.com:443/sharjahtvquranlive/shqurantv.smil/sharjahtvquran
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Quran karem Bahrain
 https://5c7b683162943.streamlock.net:443/live/ngrp:bahrainquran_all/chunklist_w159007952_b2487000.m3u8
-EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC باب الحارة
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",السنة النبوية أحاديث
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8#9758435e4fb1ea9b0b30b46b6df67fc7d3fcbd3cc51d66190bf504360018eb41
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",إقرأ
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",إقرأ قرأن كريم
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مكة
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",العفاسي
+http://dvdv.org:2082/000358/000358/4868
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ماهر المعيقلي
+http://dvdv.org/000358/000358/7217
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",القران الكريم
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", السعودية قرأن كريم 360
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مكة
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",السنة النبوية (FM)
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سورة البقرة
+https://server8.mp3quran.net/frs_a/002.mp3
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-MAJID Quran kareem
+https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC بوليوود HD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 1(FHD)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 1(sd)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC (FM)
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBCدراماHD
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBCدراما بلص
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 2
+http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/77839
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 2 (4K)
+http://199.115.193.116:80/90040798278941/90040798278941/352220
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC باب الحارة
 https://shls-live-ak.akamaized.net:443/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
-#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",قناة باب الحارة
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", قناة باب الحارة
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC مرايا
 https://shls-live-ak.akamaized.net:443/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
-EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN TV
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC أفلام
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD ناشيونال جيوغرافيك
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", الجزيرة الوثائقية
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN الثقافيه
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC أفلام أكشن
+https://shls-live-ak.akamaized.net:443/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBCأفلام خيال
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Anime_SH
+https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_12.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC FIFA PLUS
+https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 90'Highlights
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_2.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBCمصر دراما
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC مصر 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC مصر 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Action
+http://xplatinproject.com:8080/netteflix/VdCXU1mxdVFgq03lKORFgTWQhonUMP/78408
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC ACTION 
+http://199.115.193.116:80/90040798278941/90040798278941/352226
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",هلا لندن
+https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Max
+http://199.115.193.116:80/90040798278941/90040798278941/352253
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC Max(SD)
+http://199.115.193.116:80/90040798278941/90040798278941/352228
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hDHQ&e=1742913716&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
@@ -26,5 +108,39 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 https://royatv-live.daioncdn.net:443/royatv/royatv_1080p.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المملكة
 https://bcovlive-a.akamaihd.net:443/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hDHQ&e=1742913716&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",NOON JO TV FM
+https://samson.streamerr.co:8081/radionoon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",HAYAT TV FM
+https://video2.getstreamhosting.com:19360/8210/8210.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN كوميدي
+https://playlist.fasttvcdn.com:443/pl/cc0blorawy1ibohhrupraa/Comedy/playlist/0.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", JORDANدراما
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordanأرشيف
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan rotana
+http://45.63.116.205/hls/stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan tarab
+http://45.63.116.205/hls3/stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا كوميدي
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا دراما
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا Kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FANN STUDIO
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",YAQEEN STUDIO
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MELODY STUDIO
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Ain Studio Fm
+https://castor.streamthatvideo.co:8081/ainfm/index.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Jordan_Sport_SD
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8?st=HJKJkuqCR0C6HXSaxX8QuQ&e=1716228573&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_TV_2
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_TV_tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8

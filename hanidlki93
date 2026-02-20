@@ -66,12 +66,12 @@ http://135.125.109.73:9000/beinsporten2_.m3u8
 http://199.115.193.116:80/90040798278941/90040798278941/327074
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_Xtra_1
 http://135.125.109.73:9000/beinsportxtra1_.m3u8
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD
-http://199.115.193.116:80/90040798278941/90040798278941/239656
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD_FTA
+http://al01.nxtbox.de/arda/eqaatcM/205169
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 1
 http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 2
-http://portal5458.com:8080/live/jQe3M4UsqU/3552914751/12553.ts
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_2
+http://al01.nxtbox.de/arda/eqaatcM/13242
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 3
 http://portal5458.com:8080/jQe3M4UsqU/3552914751/12552
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 4
@@ -84,8 +84,8 @@ http://portal5458.com:8080/jQe3M4UsqU/3552914751/12549
 http://portal5458.com:8080/jQe3M4UsqU/3552914751/12548
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 8
 https://sdmax111.provegooott.com/48_.m3u8
-#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 9
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12546
+#EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_9
+http://al01.nxtbox.de/arda/eqaatcM/13249
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_English_1
 http://199.115.193.116:80/90040798278941/90040798278941/8260
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",HANI SPORT English-1

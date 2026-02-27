@@ -69,21 +69,21 @@ http://135.125.109.73:9000/beinsportxtra1_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD_FTA
 http://al01.nxtbox.de/arda/eqaatcM/205169
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 1
-http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
+http://al01.nxtbox.de/arda/eqaatcM/13241
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_2
 http://al01.nxtbox.de/arda/eqaatcM/13242
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 3
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12552
+http://al01.nxtbox.de/arda/eqaatcM/13243
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 4
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12551
+http://al01.nxtbox.de/arda/eqaatcM/13244
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 5
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12550
+http://al01.nxtbox.de/arda/eqaatcM/13245
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 6
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12549
+http://al01.nxtbox.de/arda/eqaatcM/13246
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 7
-http://portal5458.com:8080/jQe3M4UsqU/3552914751/12548
+http://al01.nxtbox.de/arda/eqaatcM/13247
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 8
-https://sdmax111.provegooott.com/48_.m3u8
+http://al01.nxtbox.de/arda/eqaatcM/13248
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_9
 http://al01.nxtbox.de/arda/eqaatcM/13249
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_English_1
@@ -425,10 +425,10 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hD
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الحقيقة الدولية
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ABOOD ROA'YA 1080
-https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=6ziEajTkBVa5afhXKR_Vlg&e=1771641807&sid=OAMUXutwxky8Hlk-PiiXjQ&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Abood_roa'y 720
-https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=6ziEajTkBVa5afhXKR_Vlg&e=1771641807&sid=OAMUXutwxky8Hlk-PiiXjQ&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Abod abu_samer-roya
+https://royatv-live.daioncdn.net:443/royatv/royatv_1080p.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا(1080)
+https://royatv-live.daioncdn.net:443/royatv/royatv_1080p.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المملكة
 https://bcovlive-a.akamaihd.net:443/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",NOON JO TV FM

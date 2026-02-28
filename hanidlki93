@@ -22,7 +22,7 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 http://dvdv.org:2082/000358/000358/4868
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ماهر المعيقلي
 http://dvdv.org/000358/000358/7217
-#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",القران الكريم
+#EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", القارئ السديسي
 https://shd-amg-fast.edgenextcdn.net/tx016/720p-d/index.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", السعودية قرأن كريم 360
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8?checkedby:iptvcat.com
@@ -73,7 +73,7 @@ http://al01.nxtbox.de/arda/eqaatcM/13241
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_2
 http://al01.nxtbox.de/arda/eqaatcM/13242
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 3
-http://al01.nxtbox.de/arda/eqaatcM/13243
+http://xcarscharge.pro:8080/bn3hevc/index.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 4
 http://al01.nxtbox.de/arda/eqaatcM/13244
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 5
@@ -97,7 +97,7 @@ http://199.115.193.116:80/90040798278941/90040798278941/1700
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
 http://199.115.193.116:80/90040798278941/90040798278941/1699
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+http://srvru2.play-x.ru:7799/channel/n7587da2c/index.m3u8?q=577950063c2ab3f157549e419e16d765
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 2 
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 3 
@@ -241,8 +241,8 @@ http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",canal + France
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-1
-http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22200
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN--TEST--1
+http://srvru2.play-x.ru:7799/channel/n2242915e/index.m3u8?q=577950063c2ab3f157549e419e16d765
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein-2
 http://mytv.donvolga.com:8080/ilcorsaronerro_italia/YSWXNyEhxK/22201
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Bein-3 
@@ -425,9 +425,9 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hD
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الحقيقة الدولية
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Abod abu_samer-roya
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Jordan-roya
 https://royatv-live.daioncdn.net:443/royatv/royatv_1080p.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا(1080)
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا (1080)
 https://royatv-live.daioncdn.net:443/royatv/royatv_1080p.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المملكة
 https://bcovlive-a.akamaihd.net:443/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/profile_0/chunklist_dvr.m3u8
@@ -637,11 +637,11 @@ https://sdmax111.provegooott.com/33_.m3u8
 https://sdmax111.provegooott.com/34_.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_4
 https://sdmax111.provegooott.com/35_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_5
-https://sdmax111.provegooott.com/36_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_6
-https://sdmax111.provegooott.com/37_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORTS_2
-http://koraaa.store/AD-2/video.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORTS_1
-http://koraaa.store/AD-1/video.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HD
+http://xcarscharge.pro:8080/bn1hd/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HEVC
+http://xcarscharge.pro:8080/bn1hevc/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_3_sd
+http://xcarscharge.pro:8080/bn3sd/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_2_sd
+http://xcarscharge.pro:8080/bn2sd/index.m3u8

@@ -36,32 +36,32 @@ https://server8.mp3quran.net/frs_a/002.mp3
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_1
-http://135.125.109.73:9000/beinsport1_.m3u8
-#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_2
-http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_1
+http://78.157.215.17:8081/bein2/index.m3u8
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_2
+http://supaapp.xyz:8080/462738737337/352672622626/325804
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_3
-http://135.125.109.73:9000/beinsport3_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325805
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_4
-http://135.125.109.73:9000/beinsport4_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325806
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_5
-http://135.125.109.73:9000/beinsport5_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325807
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_6
-http://135.125.109.73:9000/beinsport6_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325808
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_7
-http://135.125.109.73:9000/beinsport7_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325809
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_8
-http://135.125.109.73:9000/beinsport8_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325810
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_9
-http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_FREE
-http://135.125.109.73:9000/beinsportglobal_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/325811
+#EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_720
+http://supaapp.xyz:8080/462738737337/352672622626/442220
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN NEWS LOW
-http://135.125.109.73:9000/beinsportnew_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/443146
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_SPORT_ENGLISH_1
-http://135.125.109.73:9000/beinsporten1_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/319425
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_SPORT_ENGLISH_2
-http://135.125.109.73:9000/beinsporten2_.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/319426
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_NEWS
 http://199.115.193.116:80/90040798278941/90040798278941/327074
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_Xtra_1
@@ -93,15 +93,15 @@ http://portal5458.com:8080/live/jQe3M4UsqU/3552914751/12554.ts
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_news-(HANI IPTV)    
 http://portal5458.com:8080/jQe3M4UsqU/3552914751/12547
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 1 
-http://199.115.193.116:80/90040798278941/90040798278941/1700
+http://supaapp.xyz:8080/462738737337/352672622626/326053
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AD SPORT 2 
-http://199.115.193.116:80/90040798278941/90040798278941/1699
+http://supaapp.xyz:8080/462738737337/352672622626/326054
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 1 
-http://srvru2.play-x.ru:7799/channel/n7587da2c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+http://supaapp.xyz:8080/462738737337/352672622626/97813
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/97814
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/97815
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN GLOBAL
 http://199.115.193.116:80/90040798278941/90040798278941/327076
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 2
@@ -119,7 +119,7 @@ https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",OMAN SPORTS
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Shariqa SPORTS
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8
+http://supaapp.xyz:8080/462738737337/352672622626/141797
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 1
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",KUWAIT SPORT 2
@@ -592,23 +592,23 @@ https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", SHOOF SPORT 2 (720)
 https://storage.googleapis.com/alkass6-bucket/livestream/shoof2/20251116T090700Z/mux_video_720p_ts/index-1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 1
-http://199.115.193.116:80/90040798278941/90040798278941/409796
+http://supaapp.xyz:8080/462738737337/352672622626/418112
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 2
-http://199.115.193.116:80/90040798278941/90040798278941/409799
+http://supaapp.xyz:8080/462738737337/352672622626/418115
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 3
-http://199.115.193.116:80/90040798278941/90040798278941/409802
+http://supaapp.xyz:8080/462738737337/352672622626/418118
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 4
-http://199.115.193.116:80/90040798278941/90040798278941/409805
+http://supaapp.xyz:8080/462738737337/352672622626/418121
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 5
-http://199.115.193.116:80/90040798278941/90040798278941/409808
+http://supaapp.xyz:8080/462738737337/352672622626/418124
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الوان سبورت 6
-http://199.115.193.116:80/90040798278941/90040798278941/409810
+http://supaapp.xyz:8080/462738737337/352672622626/418127
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ستارزبلاي سبورت1
-http://199.115.193.116:80/90040798278941/90040798278941/419511
+http://supaapp.xyz:8080/462738737337/352672622626/244179
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ستارزبلاي  سبورت2
-http://199.115.193.116:80/90040798278941/90040798278941/419507
+http://supaapp.xyz:8080/462738737337/352672622626/244182
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ستارزبلاي سبورت3
-http://199.115.193.116:80/90040798278941/90040798278941/419505
+http://supaapp.xyz:8080/462738737337/352672622626/244185
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",شاهد سبورت1
 http://199.115.193.116:80/90040798278941/90040798278941/429234
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",شاهد سبورت2
@@ -643,9 +643,9 @@ https://sdmax111.provegooott.com/34_.m3u8
 https://sdmax111.provegooott.com/35_.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HD
 http://xcarscharge.pro:8080/bn1hd/index.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HEVC
-http://xcarscharge.pro:8080/bn1hevc/index.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_3_sd
-http://xcarscharge.pro:8080/bn3sd/index.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_2_sd
-http://xcarscharge.pro:8080/bn2sd/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Shasha_sports_1_HEVC
+http://supaapp.xyz:8080/462738737337/352672622626/348400
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_3_4K
+http://supaapp.xyz:8080/462738737337/352672622626/391096
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_2_4K
+http://supaapp.xyz:8080/462738737337/352672622626/391095

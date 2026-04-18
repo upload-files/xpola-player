@@ -37,7 +37,7 @@ https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_1
-http://78.157.215.17:8081/bein2/index.m3u8
+http://afcocafot.com:8080/bn14k/index.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_2
 http://supaapp.xyz:8080/462738737337/352672622626/325804
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_3
@@ -69,7 +69,7 @@ http://135.125.109.73:9000/beinsportxtra1_.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein Global_FHD_FTA
 http://al01.nxtbox.de/arda/eqaatcM/205169
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 1
-http://al01.nxtbox.de/arda/eqaatcM/13241
+http://afcocafot.com:8080/bn14k/index.m3u8
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports_2
 http://al01.nxtbox.de/arda/eqaatcM/13242
 #EXTINF:-1 group-title="Bein koora" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein sports 3
@@ -102,8 +102,8 @@ http://supaapp.xyz:8080/462738737337/352672622626/97813
 http://supaapp.xyz:8080/462738737337/352672622626/97814
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DUBAI SPORT 3 
 http://supaapp.xyz:8080/462738737337/352672622626/97815
-#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN GLOBAL
-http://199.115.193.116:80/90040798278941/90040798278941/327076
+#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN MMN
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 2
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-KASS 3
@@ -349,6 +349,10 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 http://av.alarabiya.net/alarabiapublish/alhadath_720p/playlist.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AL-JAZEERA-LOW
 https://live-hls-web-aja-gcp.thehlive.com/AJA/03.m3u8
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ALJAZEERA LOW_2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/02.m3u8
+#EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ALJAZEERA FHD_2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DW NEWS
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="الأخبار" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المشهد TV
@@ -648,4 +652,4 @@ http://supaapp.xyz:8080/462738737337/352672622626/348400
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_3_4K
 http://supaapp.xyz:8080/462738737337/352672622626/391096
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_2_4K
-http://supaapp.xyz:8080/462738737337/352672622626/391095
+http://afcocafot.com:8080/bn24k/index.m3u8

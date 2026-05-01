@@ -645,11 +645,11 @@ https://sdmax111.provegooott.com/33_.m3u8
 https://sdmax111.provegooott.com/34_.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_4
 https://sdmax111.provegooott.com/35_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_sports_1_HD
-http://xcarscharge.pro:8080/bn1hd/index.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Shasha_sports_1_HEVC
-http://supaapp.xyz:8080/462738737337/352672622626/348400
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",FLACON_sports_HD
+http://109.71.252.138/Falcon1/mpegts?token=Mx45GIhoDy9BJ2343434
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ASO_sports
+http://109.71.252.138/Asosport/mpegts?token=Mx45GIhoDy9BJ2343434
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_3_4K
-http://supaapp.xyz:8080/462738737337/352672622626/391096
+http://afcocafot.com:8080/bn34k/index.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein_SPORTS_2_4K
 http://afcocafot.com:8080/bn24k/index.m3u8

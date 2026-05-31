@@ -37,7 +37,7 @@ https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="الإسلاميات" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",nables quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_1
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/27669
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101901
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_2
 http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/9200
 #EXTINF:-1 group-title="Bein" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN_LOW_3
@@ -638,18 +638,18 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORT_1
 https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_1 
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28242
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101901
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_2
-https://sdmax111.provegooott.com/33_.m3u8
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101899
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_3
-https://sdmax111.provegooott.com/34_.m3u8
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101897
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_4
-https://sdmax111.provegooott.com/35_.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-MAX1_HD
-http://172.110.216.180:8080/live/%204750034742512197/3177932697568638/460862.ts?token=yXcaHyz.fzyfa.X.zXba.ydzbyaccyX.X.y.JO.ts.c0f288dbcb5578829892d9ee469741a36a1953937748c621f0768f0474042e6c.9038.QmF0ZWxjbyBKb3JkYW4=.c3VwYWFwcC54eXo=
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/27666
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-5
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/11141
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TVP_sports
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TRT1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TRT1_4K
-https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-6
+http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/27664
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TRT1_720
+https://tv-trt1.medya.trt.com.tr/master.m3u8

@@ -463,8 +463,8 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3
 http://45.63.116.205/hls2/stream1.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",YAQEEN STUDIO
 http://45.63.116.205/hls4/stream1.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MELODY STUDIO
-https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سما الاردن
+http://tvhydra.com/abdullla5672/6654241/226301
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Ain Studio Fm
 https://castor.streamthatvideo.co:8081/ainfm/index.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", JORDAN_SPORTS (SD)
@@ -633,8 +633,8 @@ https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_1080.m3
 https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_720.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN TEST 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN TEST_1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN FIFA WORLD CUP 2026_1
+http://tvhydra.com/abdullla5672/6654241/717490
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORT_1
 https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_1 

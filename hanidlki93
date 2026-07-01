@@ -466,15 +466,15 @@ http://45.63.116.205/hls4/stream1.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",سما الاردن
 http://tvhydra.com/abdullla5672/6654241/226301
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Ain Studio Fm
-https://castor.streamthatvideo.co:8081/ainfm/index.m3u8
+https://hls.ainfm.site/app/live/ts:master.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", JORDAN_SPORTS (SD)
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_480p.m3u8?st=HJKJkuqCR0C6HXSaxX8QuQ&e=1716228573&P=Browser&C=undefinedBrowser&D=Mobile&CT=%D8%A7%D9%84%D9
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_TV_2
 https://jrtv-live.ercdn.net/learning2/learning2.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN_TV_tourism
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",AiN RADIO VIEW FHD
+https://hls.ainfm.site/app/live/medialist_7806664055920539159_hls.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",دبي افلام one
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="hani vip" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",دبي زمان
@@ -629,27 +629,27 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",JORDAN VS KUWAIT( ARAB CUP2025 )
 https://cdn.shasha.com/M3U8/477212483397614/1765034184479/KUWAITVSJORDAN_1080.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ZDF(WORLD cup2026)
-http://23.88.66.93/ZDF/index.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DAZN 1
+http://188.37.30.62:5010/hls/eleven1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN TEST 1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN FIFA WORLD CUP 2026_1
-http://tvhydra.com/abdullla5672/6654241/717490
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN FIFA 1
+http://tmaxapp.site/beinmax1.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",STARZPLAY SPORT_1
 https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_1 
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101901
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_2
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101899
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_3
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/101897
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein_4
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/27666
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-5
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/11141
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FiFA 2
+http://tmaxapp.site/beinmax2.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FIFA 3
+http://tmaxapp.site/beinmax3.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FIFA 4
+http://tmaxapp.site/beinmax4.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 2
+http://188.37.30.62:5010/hls/eleven2.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 3
+http://188.37.30.62:5010/hls/eleven3.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TVP_sports
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-6
-http://185.229.240.112:1991/UKIPTV/WKtEIQ1o2s/27664
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TRT1_720
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 4
+http://188.37.30.62:5010/hls/eleven4.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 5
+http://188.37.30.62:5010/hls/eleven5.m3u8

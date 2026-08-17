@@ -433,10 +433,10 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hD
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الحقيقة الدولية
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Jordan-roya
-https://ochuergrys.erbvr.com/roya/roya_1080p.m3u8?st=ZrVuqfex_UoWgBxHzOIsKg&e=1780229567&sid=OT8249lP5USiPw36l7YZmQ&bvr_flags=1&bvr_ch=roya&bvr_bw=2500000
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا (720)
-https://ochuergrys.erbvr.com/roya/roya_720p.m3u8?st=ZrVuqfex_UoWgBxHzOIsKg&e=1780229567&sid=OT8249lP5USiPw36l7YZmQ&bvr_flags=1&bvr_ch=roya&bvr_bw=1500000
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ROA'YA jORDAN
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/86597
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا (ابوسامر)
+http://43.250.127.161:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/86597?token=SRRQUkALGw8bV1VWUVNQAFRVVQ8CUgIJBAcCBlMPDAUEU1pVVlBaVA8QSEcREERUVFw9XlIUCwgHU1oGGxRBQFdEZ1pXQQMXCARcXVNcFB0XRQtaUxQLAQZeVQgCAAEAABoaQ1oHGw8bAVxQUVIUHRdUGkNTRF9RXTkHVEFfV1YQDFZGXw8VF1ZcOwEHCVdfURNYFQcUHRJYFRMTDVhBX14aGlFaF0tUTVdGX0BXAgEGE04VVVlEXkUUGhMNFH58EBoaVksXXFtKWwsLQF4URUYTThVfRW5CVBUXQ1JXWVZAFAIRA0EVF1RTHDoBC1hfUFIWXllYQhILRFIEBxQYEV9ZVlpHDEtqSVsAR1hGBQkAA1sVSw==
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المملكة
 https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",NOON JO TV FM
@@ -639,16 +639,16 @@ http://tmaxapp.site/beinmax1.m3u8
 https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FiFA 2
 http://tmaxapp.site/beinmax2.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FIFA 3
-http://tmaxapp.site/beinmax3.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Bein FIFA 4
-http://tmaxapp.site/beinmax4.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",zigo_sports_2
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069725.m3u8
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",zigo_sports_3
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069724.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 2
 http://188.37.30.62:5010/hls/eleven2.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 3
 http://188.37.30.62:5010/hls/eleven3.m3u8
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein-MAX_sports
-http://185.191.127.174:2095/serial_798817/1754606919695ebcc3e4c41/1041833?token=ybHfHfc.Hdza.X.azbbH.ydzHHabbUc.X.y.DZ.ts.1aed827907ad9fc82c296dced99d9cf85148758925e2684ccdb588689c284c26...bXlwcm8tc3RiLmNvbTo4MDgw?token=
+#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ziggo_sports_1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069726.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 4
 http://188.37.30.62:5010/hls/eleven4.m3u8
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",dazn 5

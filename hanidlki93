@@ -655,5 +655,7 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218740
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235936
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",stc sport_2
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235937
-#EXTINF:-1 group-title="اهداء الى ايه الملاد" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",قناة كارتون
-http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="اهداء الى ايه الملاد" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",توم وجيري 1
+https://stream.foupix.com:8443/animeios_4/1441974636/tom_and_jerry_old_002.mp4?tkn=5603d45489143f52b9f1d184a8bd705c&tms=1792934760&ua=47978baeef107b11c7b0379be31b1572&ips=70526ca8848ee09a4d103ce896117c87&v=1792913160&_=1792913160382
+#EXTINF:-1 group-title="اهداء الى ايه الملاد" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",توم وجيري 2
+https://stream.foupix.com:8443/animeios_4/1441974636/tom_and_jerry_old_016.mp4?tkn=5069d427e051ed47d819cefd2dd84856&tms=1792934724&ua=47978baeef107b11c7b0379be31b1572&ips=70526ca8848ee09a4d103ce896117c87&v=1792913124&_=1792913124986

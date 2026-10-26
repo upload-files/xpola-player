@@ -434,11 +434,11 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=kHX5XmVhVm5IYW9Ko7hD
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الحقيقة الدولية
-https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ROA'YA jORDAN
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/86597
-#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا (ابوسامر)
-http://43.250.127.161:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/86597?token=SRRQUkALGw8bV1VWUVNQAFRVVQ8CUgIJBAcCBlMPDAUEU1pVVlBaVA8QSEcREERUVFw9XlIUCwgHU1oGGxRBQFdEZ1pXQQMXCARcXVNcFB0XRQtaUxQLAQZeVQgCAAEAABoaQ1oHGw8bAVxQUVIUHRdUGkNTRF9RXTkHVEFfV1YQDFZGXw8VF1ZcOwEHCVdfURNYFQcUHRJYFRMTDVhBX14aGlFaF0tUTVdGX0BXAgEGE04VVVlEXkUUGhMNFH58EBoaVksXXFtKWwsLQF4URUYTThVfRW5CVBUXQ1JXWVZAFAIRA0EVF1RTHDoBC1hfUFIWXllYQhILRFIEBxQYEV9ZVlpHDEtqSVsAR1hGBQkAA1sVSw==
+https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ROya-jORDAN
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",رؤيا (HD)
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المملكة
 https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/playlist-hls-dvr.m3u8
 #EXTINF:-1 group-title="JORDAN" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",NOON JO TV FM
@@ -655,7 +655,7 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218740
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235936
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",stc sport_2
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235937
-#EXTINF:-1 group-title="اهداء الى ايه الملاد" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",توم وجيري 1
-https://stream.foupix.com:8443/animeios_4/1441974636/tom_and_jerry_old_002.mp4?tkn=5603d45489143f52b9f1d184a8bd705c&tms=1792934760&ua=47978baeef107b11c7b0379be31b1572&ips=70526ca8848ee09a4d103ce896117c87&v=1792913160&_=1792913160382
-#EXTINF:-1 group-title="اهداء الى ايه الملاد" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",توم وجيري 2
-https://stream.foupix.com:8443/animeios_4/1441974636/tom_and_jerry_old_016.mp4?tkn=5069d427e051ed47d819cefd2dd84856&tms=1792934724&ua=47978baeef107b11c7b0379be31b1572&ips=70526ca8848ee09a4d103ce896117c87&v=1792913124&_=1792913124986
+#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc kids-3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", قناة كارتون
+https://glturkhstb180.glwiz.com/CNArabia_HD/CNArabia_High.m3u8?user=sgls20168977&session=38e78be179cc0b5f69f2d13053c262923fe5b9e51a4e8ea74e09faae5239b96dbdcc3d2c25b85906ef59f2cd4b76c6a0&hlsid=HTTP_ID_2

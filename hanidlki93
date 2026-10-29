@@ -266,7 +266,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابوظبي الرياضية2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index_sp2_video_enc_1080p25.m3u8
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh 1_4K
-http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4119.ts group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh 2_4K
+http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4119.ts
+#EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Thammnyh 2_4K
 http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4120.ts
 #EXTINF:-1 group-title="الرياضية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", Thammnyh 3_4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/181684
@@ -656,9 +657,9 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235936
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235937
 #EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc kids-3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", قناة كارتون
-https://glturkhstb180.glwiz.com/CNArabia_HD/CNArabia_High.m3u8?user=sgls20168977&session=38e78be179cc0b5f69f2d13053c262923fe5b9e51a4e8ea74e09faae5239b96dbdcc3d2c25b85906ef59f2cd4b76c6a0&hlsid=HTTP_ID_2
+#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",CARTOON-4K_2
+http://my98858.site:2095/live/893963693051/bHksg68fWnri8/927719.ts
 #EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Tom and jerry (arabic)
 http://my98858.site:2095/live/893963693051/bHksg68fWnri8/926983.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",cartoon 4k
+#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",cartoon-4k_1
 http://my98858.site:2095/live/893963693051/bHksg68fWnri8/927720.ts

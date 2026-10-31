@@ -134,8 +134,8 @@ https://jrtv-live.ercdn.net/learning2/learning2.m3u8
 http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/230810
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SPORTS MATCH_3
 http://cdntv.online/low/9mlxywika2/57.m3u8
-#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",SPiler_2
-http://88.212.15.17/live/spiler2/index.m3u8
+#EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",DD SPORTS
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",match new
 http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 group-title="sport" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",sportsMATCH_1
@@ -696,8 +696,8 @@ http://mjidiptv.com:1997/live/ouadnouni2/yassine/5018.ts
 http://mjidiptv.com:1997/live/ouadnouni2/yassine/17900.ts
 #EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",طيور الجنة
 http://mjidiptv.com:1997/live/ouadnouni2/yassine/5012.ts
-#EXTINF:-1 group-title="aya AFLAM" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",The Lord of the Rings 2001
-https://142b361c5f9c0d31df22903f69a86338.r2.cloudflarestorage.com/5ttttv/originals/3e48d742-0a2f-4a05-b08f-8ae20328c8ae-The.Lord.Of.The.Rings.The.Fellowship.Of.The.Ring.2001.EXTENDED.REMASTERED.1080p.BluRay_new.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20261031%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261031T094014Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=7a47eb6bbcf66ac72ffaddb9e2209bacd52e3a254456a0481af288deffda29b9
+#EXTINF:-1 group-title="aya AFLAM" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", رمضان مبروك ابو العلمين
+https://shoofmax.b-cdn.net/ramadan-mabrouk/720p/index.m3u8
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مسلسلات سورية
 http://sa.xurvani.cfd/live/564500400/3839746022/834394.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",وادي الذئاب

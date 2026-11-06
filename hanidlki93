@@ -420,6 +420,8 @@ http://mjidiptv.com:1997/live/ouadnouni2/yassine/17997.ts
 http://mjidiptv.com:1997/live/ouadnouni2/yassine/17994.ts
 #EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC MAX
 http://mjidiptv.com:1997/live/ouadnouni2/yassine/17994.ts
+#EXTINF:-1 group-title="MBC PACKAGE" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC NATURE TIME
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfi/playlist.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",روتانا خليجية
 http://my98858.site:2095/live/893963693051/bHksg68fWnri8/142165.ts
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",روتانا دراما
@@ -698,24 +700,39 @@ http://mjidiptv.com:1997/live/ouadnouni2/yassine/17900.ts
 http://mjidiptv.com:1997/live/ouadnouni2/yassine/5012.ts
 #EXTINF:-1 group-title="aya AFLAM" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", رمضان مبروك ابو العلمين
 https://shoofmax.b-cdn.net/ramadan-mabrouk/720p/index.m3u8
-#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مسلسلات سورية
-http://sa.xurvani.cfd/live/564500400/3839746022/834394.ts
-#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",وادي الذئاب
-http://sa.xurvani.cfd/live/564500400/3839746022/834397.ts
-#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",المؤسس عثمان
-http://sa.xurvani.cfd/live/564500400/3839746022/834398.ts
-#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",حريم السلطان
-http://sa.xurvani.cfd/live/564500400/3839746022/834399.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",حارة القبة
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1445.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابو جانتي-2
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1718.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ابو حانتي-1
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1717.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الو جميل وهنا
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1726.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عطر الشام1
-http://bosstike.xyz:8080/live/0545838489/1110568290/414422.ts#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عطر الشام2
-http://bosstike.xyz:8080/live/0545838489/1110568290/414499.ts
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1642.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عطر الشام2
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1051.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عطر الشام3
-http://bosstike.xyz:8080/live/0545838489/1110568290/414475.ts
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1034.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", عطر الشام4
-http://bosstike.xyz:8080/live/0545838489/1110568290/414503.ts
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1643.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",الغريبة الفلسطينية
-http://bosstike.xyz:8080/live/0545838489/1110568290/414454.ts
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1597.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",عادل امام
 http://bosstike.xyz:8080/live/0545838489/1110568290/129680.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",مرايا توم وجيري
-http://bosstike.xyz:8080/live/0545838489/1110568290/399038.ts
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 1
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1609.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 2
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1610.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 3
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1428.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", باب الحارة 4
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1431.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 5
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1432.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 6
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1433.ts
+#EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 7
+http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1432.ts

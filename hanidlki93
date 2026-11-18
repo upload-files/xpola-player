@@ -630,15 +630,15 @@ http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4040.ts
 http://ugeen.live:8080/live/exstormiptv/MhOLoupPK2/4041.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ستارزبلاي سبورت3
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1523.ts
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport1
+#EXTINF:-1 group-title="MBC SPORTS" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC SPORTS 1
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6051.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shasha SPORT2
 http://not.hattricktv.mom/live/32432434/32432434/33534.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",shasha SPORT1
 http://not.hattricktv.mom/live/32432434/32432434/33532.ts
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport2
+#EXTINF:-1 group-title="MBC SPORTS" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC SPORTS 2
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6054.ts
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport3
+#EXTINF:-1 group-title="MBC SPORTS" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",MBC SPORTS 3
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6057.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",شاشا سبورت2
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6043.ts
@@ -654,9 +654,9 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/108717
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/108718
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",باب الحارة 7
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/108719
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport4
+#EXTINF:-1 group-title="MBC SPORTS" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport4
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6060.ts
-#EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport5
+#EXTINF:-1 group-title="MBC SPORTS" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc sport5
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6063.ts
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",alrabia'a_sports+1
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218737
@@ -670,36 +670,6 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/218740
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235936
 #EXTINF:-1 group-title="test" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",stc sport_2
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235937
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",mbc kids-3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",CARTOON-4K_2
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/927719.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",Tom and jerry (arabic)
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/926983.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TOM AND JERRY_1
-http://not.hattricktv.mom/live/32432434/32432434/35075.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",TOM AND JERRY_2
-http://not.hattricktv.mom/live/32432434/32432434/35076.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",cartoon-4k_1
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/927720.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",bein(aya-sport-1)
-http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/6284.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ماشا والدب-1
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/714515.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",ماشا والدب-2
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/714514.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", ابو ظبي الوثائقية
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/800716.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", مسلسل العربجي
-http://my98858.site:2095/live/893963693051/bHksg68fWnri8/364621.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",كارتون عربي
-http://mjidiptv.com:1997/live/ouadnouni2/yassine/5018.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",كراميش
-http://mjidiptv.com:1997/live/ouadnouni2/yassine/17900.ts
-#EXTINF:-1 group-title="aya TV" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",طيور الجنة
-http://mjidiptv.com:1997/live/ouadnouni2/yassine/5012.ts
-#EXTINF:-1 group-title="aya AFLAM" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", رمضان مبروك ابو العلمين
-https://shoofmax.b-cdn.net/ramadan-mabrouk/720p/index.m3u8
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",حارة القبة
 http://maxprogo.com:8080/live/zeinloacl/Jyr9VDQczM/1445.ts
 #EXTINF:-1 group-title="مسلسلات اية" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg", العربجي
